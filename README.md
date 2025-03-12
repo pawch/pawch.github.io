@@ -1,1 +1,1 @@
-[Daggerheart](daggerheart.md)
+[Daggerheart](daggerheart/contents.md)

@@ -3,3 +3,5 @@ plugins:
 - jekyll-remote-theme
 title: Daggerheart rules
 description: Strip from 1.5 to make it more like PHB.
+kramdown:
+  toc_levels: 1..6
