@@ -9,6 +9,8 @@
 7. Return the result as a github-valid Markdown file.
 8. Ask additional questions if needed.
 9. Do not use emoji.
+10. Add terminology to a separate dictionary file and use it as a reference to maintain translation consistency.
+11. As a result return 2 files, translation itself and the updated dictionary
 
 # Героические Способности (Heroic Abilities)
 
